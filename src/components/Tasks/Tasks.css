@@ -1,0 +1,22 @@
+.tasks__task-input {
+    width: 370px;
+}
+
+.tasks__add-btn {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.tasks__tools {
+    display: flex;
+}
+
+.tasks__content {
+    margin-top: 20px;
+}
+
+.tasks__btn-wrap {
+    height: 85px;
+    display: inline-flex;
+    align-items: center;
+}

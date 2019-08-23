@@ -1,0 +1,37 @@
+.app {
+    width: 1200px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    background: #e8edef;
+}
+
+.app__header {
+    position: relative;
+    top: 0;
+    right: 0;
+    left: 0;
+    height: 80px;
+    background: #c6d6f0;
+
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+}
+
+.app__content {
+    padding: 20px;
+}
+
+.app__title {
+    color: #ffffff;
+}
+
+.app__logout-btn {
+    position: absolute;
+    right: 20px;
+}

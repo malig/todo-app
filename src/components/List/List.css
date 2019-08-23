@@ -1,0 +1,26 @@
+.list__caption-input {
+    width: 370px;
+}
+
+.list__create-btn {
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.list__tools {
+    display: flex;
+}
+
+.list__content {
+    margin-top: 20px;
+}
+
+.list__caption {
+    width: 90%;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.list__item {
+    margin-bottom: 20px;
+}

@@ -1,0 +1,25 @@
+.well {
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    font-weight: 600;
+    font-size: 18px;
+    color: #444444;
+}
+
+.well_full {
+    width: 100%;
+    height: 100%;
+}
+
+.well_shadow {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3), 0 0 4px rgba(0, 0, 0, 0.1);
+}
+
+.well_radius_6 {
+    border-radius: 4px;
+}
+
+.well_grey4 {
+    background: grey;
+}

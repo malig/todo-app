@@ -1,0 +1,25 @@
+.auth {
+    width: 500px;
+    margin: auto;
+}
+
+.auth_step {
+    margin-bottom: 20px;
+}
+
+.auth__two-col {
+    width: 50%;
+    display: inline-block;
+}
+
+.auth__two-col_align_right {
+    text-align: right;
+}
+
+.auth__registration-link {
+    color: #7396cd;
+}
+
+.auth__registration-link:hover {
+    color: #4b75b7;
+}

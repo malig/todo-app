@@ -1,0 +1,12 @@
+.task {
+    margin-bottom: 20px;
+}
+
+.task__two-col {
+    display: inline-block;
+    width: 50%;
+}
+
+.task__input {
+    height: 150px;
+}
